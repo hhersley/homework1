@@ -1,12 +1,13 @@
 <html>
 <body>
-<h1>My Website</h1>
+background-color: #C0C0C0;
+<h1>Homepage</h1>
 <p>How do tables work</p>
 
 
 
 </body>
-
+</html>
 <!-- On tables -->
 <table class="table-primary">table test 1</table>
 <table class="table-secondary">...</table>
@@ -38,8 +39,3 @@
   <td class="table-light">...</td>
   <td class="table-dark">...</td>
 </tr>
-
-
-
-
-</html>
