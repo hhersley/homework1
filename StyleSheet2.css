@@ -1,19 +1,19 @@
 body 
 {
-    color: white;
-    background-color:white;
+    color: #000000;
+    background-color:#FFFFFF;
 }
 h1
 {
     
     text-align:center;
-    color: black;
+    color: #000000;
 
 }
 #navbar
 {
-    background-color: black;
-    color: white
+    background-color: #000000;
+    color: #FFFFFF
     
 }
 
