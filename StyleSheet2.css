@@ -10,11 +10,17 @@ h1
     color: black;
 
 }
-navbar
+#navbar
 {
-    background-color:black;
+    background-color: black;
     color: white
     
 }
 
+#img1
+{
+       width: 50%;
+    height: 50%;
+
+}
 
