@@ -8,12 +8,15 @@ h1
     
     text-align:center;
     color: #FFFFFF;
-    font-size: 300%;
+    font-size: 500%;
     font-style:bold;
+    text-shadow:2px 2px #ff0000;
 
 }
 #HW1
 {
+    
+    color: #FFFFFF;
     font-size:150%;
     font-style:bold;
 }
